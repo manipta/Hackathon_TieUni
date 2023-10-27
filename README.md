@@ -1,9 +1,8 @@
 # Hackathon_TieUni
 We aim to increase the affordability of Stem Kits by providing it as rental kits. It will bring down the cost.
 
-## Devpost Link
-[Devpost](https://devpost.com/software/sarvhetu)
-
+## Important Links
+[Devpost](https://devpost.com/software/sarvhetu) || [Certificate](https://drive.google.com/file/d/13F9yMv9rOTKWL8AyCCzS5bJhz_WSa--2/view?usp=drive_link)
 ## Inspiration
 Our Inspiration comes from the personal experience of one of our team members. He is very fond of IOT Hobby Kits even before entering college. He struggles a lot to learn on his own. The fact that IOT kits are costly is also a barrier. So, to help such ambitious Learners who can't afford or find any relevant resources we thought to help them.
 
